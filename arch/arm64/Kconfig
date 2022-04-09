@@ -511,7 +511,6 @@ config ARM64_ERRATUM_1024718
 
 	  If unsure, say Y.
 
-<<<<<<< HEAD
 config ARM64_ERRATUM_1188873
 	bool "Cortex-A76: MRC read following MRRC read of specific Generic Timer in AArch32 might give incorrect result"
 	default y
